@@ -14,23 +14,23 @@ const Brayan = {
 ```
 
 <h2>Contact me...</h2>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh5YWlodXoxNDNtOXY1aWlnenh3ZXdxbGNwZW0xMXM1NGt6MHVpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vccj2vW1vvll6Xax50/giphy.gif" width="128"></img>
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ1Mm9hNHRoemR0angxOWxnZjYxcXdhenh4MjJ0ZXdpdnQyYzF2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96B3lDoB9G54dT12fz/giphy.gif" width="128"></img>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh5YWlodXoxNDNtOXY1aWlnenh3ZXdxbGNwZW0xMXM1NGt6MHVpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vccj2vW1vvll6Xax50/giphy.gif" width="150"></img>
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ1Mm9hNHRoemR0angxOWxnZjYxcXdhenh4MjJ0ZXdpdnQyYzF2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96B3lDoB9G54dT12fz/giphy.gif" width="150"></img>
 
 <div align="center">
   <h4>
     <a href="tel:+573001719317">
-      <img src="https://img.shields.io/badge/WhatsApp-+573001719317-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
   </h4>
   <h4>
     <a href="mailto:brayanhernandezfurnieles@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-brayanhernandezfurnieles@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </h4>
   <h4>
     <a href="https://www.linkedin.com/in/brayanhf/">
-      <img src="https://img.shields.io/badge/LinkedIn-brayanhf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </h4>
 </div>

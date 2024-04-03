@@ -1,5 +1,6 @@
 <h2 align="center">Hi, I'm Brayan<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXluNTd2YnUyMzYyZDVqcnZ2N3lpZzk2eTFkeXU3bmppeGczc2R6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ev5a17WgHHX94jPhL0/giphy.gif" width="64"></img></h2>
 <p><em>Systems Engineering student at <a href="https://www.unicordoba.edu.co/">University of Córdoba</a></em></p>
+
 <!--
 ```javascript
 const Brayan = {
@@ -13,6 +14,7 @@ const Brayan = {
 }
 ```
 -->
+
 <h2>Languages, tools and knowledge...</h2>
 <h3>Back-End</h3>
 <div align="center">
@@ -54,11 +56,15 @@ const Brayan = {
     <img src="https://img.shields.io/badge/Cucumbe-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Mockito-111324?style=for-the-badge&logo=campaignmonitor&logoColor=white"></img>
 </div>
+<br><br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanHF&theme=github_dark_dimmed"></img>
+</div>
+
 
 <h2>Contact me...</h2>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh5YWlodXoxNDNtOXY1aWlnenh3ZXdxbGNwZW0xMXM1NGt6MHVpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vccj2vW1vvll6Xax50/giphy.gif" width="150"></img>
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ1Mm9hNHRoemR0angxOWxnZjYxcXdhenh4MjJ0ZXdpdnQyYzF2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96B3lDoB9G54dT12fz/giphy.gif" width="150"></img>
-
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/brayanhf/">

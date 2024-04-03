@@ -72,11 +72,6 @@ const Brayan = {
     </a>
   </p>
   <p>
-    <a href="https://wa.me/573001719317">
-      <img src="https://img.shields.io/badge/+57%203001719317-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-  </p>
-  <p>
     <a href="mailto:brayanhernandezfurnieles@gmail.com">
       <img src="https://img.shields.io/badge/brayanhernandezfurnieles@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>

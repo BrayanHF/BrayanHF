@@ -15,7 +15,7 @@ const Brayan = {
 ```
 -->
 
-<h2>Languages, tools and knowledge...</h2>
+<h2><img align="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdyM3Q0dDM0cWd6bTBtZnZrZTZ4dDN2Y3g4cnEzM2Fyend1a3dwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YEW4jqIDGdjhVsxXXr/giphy.gif" width="64"> </img>Languages, tools and knowledge...</h2>
 <h3>Back-End</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-E23135?style=for-the-badge&logo=openjdk&logoColor=white"></img>

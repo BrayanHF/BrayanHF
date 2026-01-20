@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Brayan Hernandez
 
-💻 **Junior Developer | Backend & Frontend**  
+💻 **Software Developer | Java · Spring Boot · Angular · Reactive Systems**  
 Experience in both backend and frontend technologies. Always looking to improve my skills and learn new technologies.
 
 ---
